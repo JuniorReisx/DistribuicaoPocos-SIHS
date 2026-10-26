@@ -1,0 +1,19 @@
+{
+  "name": "header-dashboard",
+  "label": "Header dashboard",
+  "type": "widget",
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "author": "SIHS",
+  "description": "Faixa institucional vertical para dashboards. Sem menu e sem expansão.",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "cover": true
+  },
+  "translatedLocales": ["en"],
+  "defaultSize": {
+    "width": 258,
+    "height": 900
+  }
+}

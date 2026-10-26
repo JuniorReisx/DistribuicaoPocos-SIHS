@@ -1,0 +1,21 @@
+{
+  "name": "pocos-page-portal",
+  "label": "Distribuição de Poços",
+  "type": "widget",
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "author": "SIHS",
+  "description": "Dashboard da distribuição de poços tubulares perfurados pela CERB, no padrão visual do Portal da Água.",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "coverLayoutBackground": true,
+    "supportAutoSize": true
+  },
+  "dependency": "jimu-arcgis",
+  "translatedLocales": ["en"],
+  "defaultSize": {
+    "width": 1440,
+    "height": 920
+  }
+}
